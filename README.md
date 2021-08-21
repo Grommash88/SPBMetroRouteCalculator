@@ -16,8 +16,6 @@ The program for making a route and calculating the travel time (approximate) alo
 	non-existent stations, logs are saved to the logs/input_errors.log file, information about caught exceptions,
 	logs are saved to the logs/exceptions.log file.
 
-============================================================================================
-
 Программа составления маршрута и расчета времени в пути(приблизительного) по метро Санкт-Петербурга:
 
 	-После запуска создается модель метрополина, данные парсятся из JSON файла лежащего в папке resources.
