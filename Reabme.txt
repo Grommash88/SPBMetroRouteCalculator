@@ -6,9 +6,9 @@ The program for making a route and calculating the travel time (approximate) alo
 	if one of the stations does not exist in the metro model, a BadCommandException is thrown.
 	-Creating a route and calculating the travel time is implemented in the RouteCalculator class, the class is covered with tests.
 	-The route and time of the trip are displayed in the console.
-	-Added logging of entered existing metro stations, logs are saved to the logs / search.log file,
-	non-existent stations, logs are saved to the logs / input_errors.log file, information about caught exceptions,
-	logs are saved to the logs / exceptions.log file.
+	-Added logging of entered existing metro stations, logs are saved to the logs/search.log file,
+	non-existent stations, logs are saved to the logs/input_errors.log file, information about caught exceptions,
+	logs are saved to the logs/exceptions.log file.
 
 ========================================================================================================================================
 
